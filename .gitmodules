@@ -1,0 +1,3 @@
+[submodule "tflite-tools"]
+	path = tflite-tools
+	url = https://github.com/eliberis/tflite-tools.git
